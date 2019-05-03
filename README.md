@@ -5,7 +5,7 @@ Simple cross-platform pure Go screen shot library. (tested on linux&windows&osx)
 
 ## Installation
 ```go
-go get github.com/vova616/screenshot
+go get github.com/wilix-team/screenshot
 ```
 
 <br/>
@@ -14,7 +14,7 @@ go get github.com/vova616/screenshot
 Import the package
 ```go
 import (
-    "github.com/vova616/screenshot"
+    "github.com/wilix-team/screenshot"
 )
 ```
 
